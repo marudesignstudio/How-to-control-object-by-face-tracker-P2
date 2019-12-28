@@ -1,3 +1,5 @@
+<img src=#>
+
 Hey guys, sorry for making you wait. I don't have too much time to make videos because of my work.
 
 I didn't spend a lot of time creating game filters, but I spent a lot of time making tutorial videos. Because I understand the difficulties of beginners or those who have not had much experience with Spark AR. Therefore, I spent a lot of time thinking about how I can help you easily understand how filters work, I also removed the complicated things and instead patch packs help you easily than to make game filters for yourself.
