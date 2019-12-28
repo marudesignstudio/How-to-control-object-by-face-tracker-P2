@@ -1,4 +1,4 @@
-<img src=#>
+<img src="https://github.com/marudesignstudio/How-to-control-object-by-face-tracker-P2/blob/master/Cover.jpg">
 
 Hey guys, sorry for making you wait. I don't have too much time to make videos because of my work.
 
